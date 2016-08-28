@@ -1,0 +1,8 @@
+Origin: Emu prova
+Label: Prova
+Suite: stable
+Version: 1.0
+Codename: Emu
+Architectures: iphoneos-arm
+Components: main
+Description: A simple theme for all your iOS devices! Enjoy! This is a beta test
